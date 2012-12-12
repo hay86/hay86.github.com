@@ -1,0 +1,154 @@
+{
+	"data": [
+		{
+			"year_label": "2005"
+		},
+		{
+			"item_title": "Battleship",
+			"item_thumbnail": "img/battleship.png",
+			"item_description": "Battleship is the final assignment for C++ course in my second semester at SJTU. It is written in pure C++ language."
+		},		
+		{
+			"item_title": "Traffic Light",
+			"item_thumbnail": "img/traffic_light.jpg",
+			"item_description": "Traffic Light is developed under MAX+PLUS II platform of Altera Inc. The logic compoments are described using AHDL."
+		},
+		{
+			"year_label": "2006"
+		},
+		{
+			"item_title": "Volume Adjustable Speaker",
+			"item_thumbnail": "img/speaker.jpg",
+			"item_description": "Volume Adjustable Speaker is a team project. My job is to take a volume input and translate it to a voltage signal."
+		},
+		{
+			"item_title": "EBank",
+			"item_thumbnail": "img/ebank.jpg",
+			"item_description": "EBank is a naive management system for electronic bank. I use Java for backend, Swing and AWT for frontend."
+		},
+		{
+			"item_title": "Tiger Complier",
+			"item_thumbnail": "img/tiger_complier.png",
+			"item_description": "Tiger Complier is a half-done (abstract syntax tree) complier for Tiger language. It is written in Java and Swing."
+		},
+		{
+			"year_label": "2007"
+		},
+		{
+			"item_title": "PaoPao Tang",
+			"item_thumbnail": "img/paopaotang.png",
+			"item_description": "PaoPao Tang is a AI game for player chasing. It is developed under AgentSheet frameowk and hill-climbing algorithm."
+		},
+		{
+			"item_title": "KOHAY DBMS",
+			"item_thumbnail": "img/kohay_dbms.png",
+			"item_description": "KOHAY DBMS is simple database management system. We use XML to stroe raw data, B+ tree for index and SWT for UI."
+		},
+		{
+			"item_title": "Location Search - PAKDD 2008",
+			"item_thumbnail": "img/location_search.jpg",
+			"item_description": "Location Search finds spatial events and displays them on a map. Lucene is used for index and Ajax for Web Interface"
+		},
+		{
+			"item_title": "STEMiner",
+			"item_thumbnail": "img/steminer.png",
+			"item_description": "STEMiner is a web app for mining spatial and temporary events from the Web. It is developed with Lucene and Dojo."
+		},
+		{
+			"item_title": "KF Player",
+			"item_thumbnail": "img/kfplayer.png",
+			"item_description": "KF Player is metadata (ID3) editor for mp3 files as well as a mp3 player. It is written under Java RCP, just like Eclipse."
+		},
+		{
+			"year_label": "2008"
+		},
+		{
+			"item_title": "IP/Port Scanner",
+			"item_thumbnail": "img/ip_port_scanner.jpg",
+			"item_description": "IP/Port Scanner is a small tool for scanning IPs and Ports of machines in local network. It is written in Java and SWT."
+		},
+		{
+			"item_title": "Hay's Paint",
+			"item_thumbnail": "img/hays_paint.png",
+			"item_description": "Hay's Paint is an easy-to-use painting tool that supports many basic drawing operations. It is developed under MFC."
+		},
+		{
+			"item_title": "OWL - Full Text Search Engine",
+			"item_thumbnail": "img/owl.png",
+			"item_description": "OWL is a full text search engine for quering keywords from local .txt, .doc, .pdf files. It is built on top of Lucene and SWT."
+		},
+		{
+			"item_title": "Catriple - ASWC 2008",
+			"item_thumbnail": "img/catriple.jpg",
+			"item_description": "Catriple is a web app for searching and browsing Wikipedia categories. It is developed with Lucene and jQuery."
+		},
+		{
+			"item_title": "Hermes - SIGMOD 2009",
+			"item_thumbnail": "img/hermes.jpg",
+			"item_description": "Hermes is a powerful tool to make the data web visualizable. My job is to discover the connections between web entities."
+		},
+		{
+			"year_label": "2009"
+		},
+		{
+			"item_title": "Pop Songs' Segmentation",
+			"item_thumbnail": "img/popsongs_segmentation.png",
+			"item_description": "PSS tries to segment every pop song in terms of time axis. SOM is leveraged to do the self-clustering on lyrics."
+		},
+		{
+			"item_title": "IBM DeepQA",
+			"item_thumbnail": "img/deepqa.JPG",
+			"item_description": "DeepQA is designed for deep content analysis and evidence based reasoning. My job is to do candidate answers filtering."
+		},
+		{
+			"year_label": "2010"
+		},
+		{
+			"item_title": "Doctor Portal",
+			"item_thumbnail": "img/doctor_portal.png",
+			"item_description": "Doctor Portal provides a web interface for doctors to trace their patients. It is developed with PHP and Ext JS."
+		},
+		{
+			"item_title": "Pathology Portal",
+			"item_thumbnail": "img/pathology_portal.jpg",
+			"item_description": "Pathology Portal is another doctor portal designed for tracing patients' pathology. It is developed with Python and jQuery."
+		},
+		{
+			"item_title": "Hospital Quality Control System",
+			"item_thumbnail": "img/hqcs.jpg",
+			"item_description": "HQCS is an event-driven system for managing doctors and nurses in a hospital. It is written in C# and ASP.net."
+		},
+		{
+			"item_title": "Sun Menu",
+			"item_thumbnail": "img/sunmenu.jpg",
+			"item_description": "Sun Menu is an iPad based digital Menu and Order system. The interface is written in native Objective C codes."
+		},
+		{
+			"item_title": "Semir Tshirt",
+			"item_thumbnail": "img/semir_tshirt.jpg",
+			"item_description": "Semir Tshirt is an iphone demo app developed for Semir Inc. It is my first app for location based service."
+		},
+		{
+			"year_label": "2011"
+		},
+		{
+			"item_title": "Chinese Ontology Matching",
+			"item_thumbnail": "img/ontology_matching.png",
+			"item_description": "Chinese Ontology Matching aims to find the matching relations between the name entities written in Chinese."
+		},
+		{
+			"item_title": "ChinaStone - TechPulse 2011",
+			"item_thumbnail": "img/chinastone.png",
+			"item_description": "Yahoo! Confidentials."
+		},
+		{
+			"item_title": "VideoSpot",
+			"item_thumbnail": "img/videospot.jpg",
+			"item_description": "Yahoo! Confidentials."
+		},
+		{
+			"year_label": "Now",
+			"year_index": "false"
+		}
+	]
+}

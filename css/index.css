@@ -1,0 +1,65 @@
+/**
+ * Index.css - Style file for index.html
+ *
+ * Copyright (c) 2011 Kaifeng Xu - xukaifeng1986(at)gmail(dot)com | http://kfun.me
+ * Dual licensed under MIT and GPL.
+ * Date: 08/20/2011
+ * @author: Kaifeng Xu
+ * @version: 0.0.1
+ *
+ * http://project.kfun.me
+ */
+
+body
+{
+	font-family: 'Verdana';
+	font-size: 0.9em;
+}
+
+h1
+{
+	color: slateblue;
+	font-family: 'Comic Sans MS';
+	font-size: 3em;
+	font-weight: normal;
+}
+
+h2
+{
+	background-color: #eee;
+	font-family: 'Courier New';
+	font-size: 1.6em;
+	font-weight: normal;
+}
+
+img
+{
+	float: left;
+}
+
+a
+{
+	color: slateblue;
+	text-decoration: none;
+}
+
+
+a:hover
+{
+	color: orange;
+	text-decoration: underline;
+}
+
+div #footer
+{
+	font-family: 'Comic Sans MS';
+	color: slateblue;
+	text-align: center;
+}
+
+/*
+div
+{
+	border: 1px solid black;
+}
+*/
