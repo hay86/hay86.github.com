@@ -147,6 +147,40 @@
 			"item_description": "Yahoo! Confidentials."
 		},
 		{
+			"year_label": "2012"
+		},
+		{
+			"item_title": "Text Anti-spam",
+			"item_thumbnail": "img/random_forest.jpg",
+			"item_description": "Paragraph / Sentence / Word based anti-spam using random forest algorithm (200+ features), precision/recall above 99%."
+		},
+		{
+			"item_title": "Yidianzixun iOS Client",
+			"item_thumbnail": "img/yd_frontend.jpg",
+			"item_description": "Design and develop the Yidianzixun iOS client, i.e. content page and image slideview, optimize network communication."
+		},
+		{
+			"year_label": "2013"
+		},
+		{
+			"item_title": "Image Crawler / Server",
+			"item_thumbnail": "img/yd_image.jpg",
+			"item_description": "Develop multi-thread python system for image crawling and serving, 10T data and 10M DAU. Also do face/obj detection."
+		},
+		{
+			"item_title": "Yidianzixun Backend",
+			"item_thumbnail": "img/yd_backend.jpg",
+			"item_description": "Pure PHP backend for serving Yidianzixun 10M DAU with 10+ machines, Efficient sharding and caching are used."
+		},
+		{
+			"year_label": "2014"
+		},
+		{
+			"item_title": "Push Notification Center",
+			"item_thumbnail": "img/yd_push.jpg",
+			"item_description": "Python based push notification center for iOS/Android client , 0.5M peak QPS, 1 min for pushing news to 30M users."
+		},
+		{
 			"year_label": "Now",
 			"year_index": "false"
 		}
